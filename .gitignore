@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+*.zip
+addressbook.pkl
+.addressbook.pkl.*.tmp
